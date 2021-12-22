@@ -16,7 +16,7 @@ Run console command
 ### Usage example
 
 ```const net = require('net');
- const Parser = require('teltonika-parser-ex');
+ const Parser = require('teltonika-parser-flex');
  const binutils = require('binutils64');
 
 
