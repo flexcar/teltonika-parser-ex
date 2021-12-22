@@ -5,13 +5,13 @@
   },
   "contributors": [
     {
-      "name": "Tomasz Duda",
-      "email": "derwu22@gmail.com"
+      "name": "Angelos Katsaris",
+      "email": "a.katsaris@flexcar.gr"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/derwu/teltonika-parser-ex.git"
+    "url": "https://github.com/flexcar/teltonika-parser-ex.git"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -25,7 +25,7 @@
     "mocha": "^5.2.0",
     "path": "^0.12.7"
   },
-  "name": "teltonika-parser-ex",
+  "name": "teltonika-parser-flex",
   "scripts": {
     "test": "mocha test/test.js"
   },
