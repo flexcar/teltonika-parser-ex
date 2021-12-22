@@ -5,13 +5,13 @@ Right now supported Codec8, Codec8 Extended and Codec7 format, Codec 16 yet in p
 
 ### Source
 
-Forked from: https://www.npmjs.com/package/teltonika-parser
+Forked from: https://github.com/derwu/teltonika-parser-ex
 
 ### Installation
 
 Run console command
 
-`npm i teltonika-parser-ex`
+`npm i teltonika-parser-flex`
 
 ### Usage example
 
